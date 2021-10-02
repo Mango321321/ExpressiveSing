@@ -42,11 +42,11 @@
 > > 还可以嵌套
 > 1. 或者增加序号
 
-"""python
+```python
 print("可以这样添加代码")
-"""
+```
 
-<center>也可以增加表格</center>
+* 也可以增加表格，用竖线隔开
 
 | 左对齐 | 右对齐 | 居中对齐 |
 | :-----| ----: | :----: |
@@ -54,41 +54,50 @@ print("可以这样添加代码")
 | 单元格 | 单元格 | 单元格 |
   
 ## 效果展示
+* 可以插入html语句实现更复杂的效果
 
-## Welcome to GitHub Pages
+<br>
 
-You can use the [editor on GitHub](https://github.com/Mango321321/ExpressiveSing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table align="center">
+  <thead>
+    <tr>
+      <th>列名1</th>
+      <th>列名2</th>
+      <th>列名3</th>
+    </tr>
+  </thead>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+    </tr>
+  </tbody>
 
-### Markdown
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_12.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_13.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_4.wav"></audio></td>
+    </tr>
+  </tbody>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_15_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_7.wav"></audio></td>
+    </tr>
+  </tbody>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mango321321/ExpressiveSing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</table>
