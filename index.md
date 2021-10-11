@@ -38,27 +38,27 @@ be added to a music note, which would help improve the singing voice naturalness
     <tr>
       <td><b>Baseline</b></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/ADIZ_01_7.wav"></audio></td>
+            <source src="audio/mos_demo_web/baseline/VKOW_20_JLEE_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/ADIZ_01_8.wav"></audio></td>
+            <source src="audio/mos_demo_web/baseline/VKOW_20_JLEE_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/ADIZ_09_2.wav"></audio></td>
+            <source src="audio/mos_demo_web/baseline/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/ADIZ_09_2.wav"></audio></td>
+            <source src="audio/mos_demo_web/baseline/VKOW_20_JTAN_1.wav"></audio></td>
     </tr>
   </tbody>
 
   <tbody>
     <tr>
      <td><b>USVC</b> </td>
+       <td><audio controls="" preload="auto">
+            <source src="audio/mos_demo_web/USVC/VKOW_20_JLEE_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_12.wav"></audio></td>
+            <source src="audio/mos_demo_web/USVC/VKOW_20_JLEE_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_13.wav"></audio></td>
+            <source src="audio/mos_demo_web/USVC/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_4.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_4.wav"></audio></td>
+            <source src="audio/mos_demo_web/USVC/VKOW_20_JTAN_1.wav"></audio></td>
     </tr>
   </tbody>
 
@@ -66,27 +66,27 @@ be added to a music note, which would help improve the singing voice naturalness
     <tr>
      <td><b>WGANSing</b> </td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_15_11.wav"></audio></td>
+            <source src="audio/mos_demo_web/WGANSing/VKOW_20_JLEE_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_2.wav"></audio></td>
+            <source src="audio/mos_demo_web/WGANSing/VKOW_20_JLEE_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_7.wav"></audio></td>
+            <source src="audio/mos_demo_web/WGANSing/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_4.wav"></audio></td>
+            <source src="audio/mos_demo_web/WGANSing/VKOW_20_JTAN_1.wav"></audio></td>
     </tr>
    </tbody>
    
    <tbody>
     <tr>
      <td><b>UCSVC</b> </td>
+       <td><audio controls="" preload="auto">
+            <source src="audio/mos_demo_web/UCSVC/VKOW_20_JLEE_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_15_11.wav"></audio></td>
+            <source src="audio/mos_demo_web/UCSVC/VKOW_20_JLEE_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_2.wav"></audio></td>
+            <source src="audio/mos_demo_web/UCSVC/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_7.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_4.wav"></audio></td>
+            <source src="audio/mos_demo_web/UCSVC/VKOW_20_JTAN_1.wav"></audio></td>
     </tr>
   </tbody>
  
@@ -94,13 +94,13 @@ be added to a music note, which would help improve the singing voice naturalness
     <tr>
      <td><b>ExpressiveSing</b> </td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_15_11.wav"></audio></td>
+            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JLEE_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_2.wav"></audio></td>
+            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JLEE_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_7.wav"></audio></td>
+            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_4.wav"></audio></td>
+            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JTAN_1.wav"></audio></td>
     </tr>
    </tbody>
 </table>
