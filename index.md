@@ -175,13 +175,13 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/abtest/pitch/output_our_pitch/ADIZ_09_2_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/ADIZ_18_1_output.wav"></audio></td>
+            <source src="audio/abtest/pitch/output_our_pitch/JLEE_08_12_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/abtest/pitch/output_our_pitch/PMAR_15_6_output.wav"></audio></td>
      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/SAMF_09_6_output.wav"></audio></td>
+            <source src="audio/abtest/pitch/output_our_pitch/PMAR_11_11_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/VKOW_20_1_output.wav"></audio></td>
+            <source src="audio/abtest/pitch/output_our_pitch/PMAR_15_6_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/abtest/pitch/output_our_pitch/VKOW_20_2_output.wav"></audio></td>
     </tr>
@@ -197,11 +197,11 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/abtest/pitch/output_whole_vibrato/ADIZ_18_1_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_whole_vibrato/PMAR_15_6_output.wav"></audio></td>
+            <source src="audio/abtest/pitch/output_whole_vibrato/JLEE_08_12_output.wav"></audio></td>
      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_whole_vibrato/SAMF_09_6_output.wav"></audio></td>
+            <source src="audio/abtest/pitch/output_whole_vibrato/PMAR_11_11_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_whole_vibrato/VKOW_20_1_output.wav"></audio></td>
+            <source src="audio/abtest/pitch/output_whole_vibrato/PMAR_15_6_output.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/abtest/pitch/output_whole_vibrato/VKOW_20_2_output.wav"></audio></td>
     </tr>
