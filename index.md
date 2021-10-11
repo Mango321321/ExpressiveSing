@@ -1,5 +1,4 @@
-<center>EXPRESSIVESING: SINGING VOICE SYNTHESIS WITH VIBRATO MODELING AND LATENT SPECTROGRAM REPRESENTATION</center>
-=================
+## <center>EXPRESSIVESING: SINGING VOICE SYNTHESIS WITH VIBRATO MODELING AND LATENT SPECTROGRAM REPRESENTATION</center>
 
 <center>Yingjie Song<sup>1</sup>, Wei Song<sup>3</sup>, Wei Zhang<sup>3</sup>, Zhengchen Zhang<sup>3</sup>, Youzheng Wu<sup>3</sup>, <br> Dan Zeng<sup>1</sup>, Zhi Liu<sup>1</sup>, Yang Yu<sup>4</sup>, Xiaoping Zhang<sup>1,2</sup> <br><br></center>
 
@@ -8,8 +7,8 @@
 <sup>3</sup> JD AI Research, Beijing, China<br>
 <sup>4</sup> Shanghai Conservatory Of Music, China</center>
 
-Abstract
------------------
+# Abstract
+
 
  <div style="text-align: justify">This paper proposes an expressive singing voice synthesis system by introducing explicit vibrato modeling and latent spectrogram
 representation. Vibrato is essential to the naturalness of synthesized sound, due to the inherent characteristics of human singing. Hence, a deep learning based vibrato model is introduced in this paper to control the vibrato’s likeliness, rate, extent, phase in singing. In particular, the vibrato likeliness is proposed to control if vibrato should
@@ -27,8 +26,8 @@ be added to a music note, which would help improve the singing voice naturalness
 
 [点我](https://mango321321.github.io/ExpressiveSing/)
   
-结论
------------------
+# 结论
+
 
 1. 这样添加序号
 2. 这样添加序号
@@ -62,8 +61,8 @@ print("可以这样添加代码")
 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
   
-效果展示
------------------
+# 效果展示
+
 * 可以插入html语句实现更复杂的效果
 
 <br>
