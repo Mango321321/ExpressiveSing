@@ -94,13 +94,13 @@ be added to a music note, which would help improve the singing voice naturalness
     <tr>
      <td><b>ExpressiveSing</b> </td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JLEE_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/ours/VKOW_20_JLEE_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JLEE_2.wav"></audio></td>
+            <source src="audio/mos_demo_web/ours/VKOW_20_JLEE_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/ours/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/ExpressiveSing/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/ours/VKOW_20_JTAN_1.wav"></audio></td>
     </tr>
    </tbody>
 </table>
