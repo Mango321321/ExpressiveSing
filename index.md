@@ -21,7 +21,51 @@ be added to a music note, which would help improve the singing voice naturalness
 ## Overall Performance
 
 <div align=center><img src="./image/web1.jpg" width="50%" height="50%"></div>
+<br>
 
+<table align="center">
+  <thead>
+    <tr>
+      <th>列名1</th>
+      <th>列名2</th>
+      <th>列名3</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_12.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_13.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_4.wav"></audio></td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_15_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_7.wav"></audio></td>
+    </tr>
+  </tbody>
+
+</table>
 
 
 1. 这样添加序号
