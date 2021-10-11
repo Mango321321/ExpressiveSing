@@ -1,4 +1,4 @@
-# <center>这里写标题</center>
+# <center>EXPRESSIVESING: SINGING VOICE SYNTHESIS WITH VIBRATO MODELING AND LATENT SPECTROGRAM REPRESENTATION</center>
 
 <center>这里放作者A、作者B、作者C</center>
 
