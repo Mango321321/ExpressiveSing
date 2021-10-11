@@ -106,26 +106,27 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 <br>
 
-##  Ablation Study
-
-<div align=center><img src="./image/abtest.jpg" width="60%" ></div>
-<br>
-
+<li><b>Additional experiment</b></li>
 <table align="center">
   <thead>
     <tr>
-      <th>列名1</th>
-      <th>列名2</th>
-      <th>列名3</th>
+      <th>\</th>
+      <th>Sample 1</th>
+      <th>Sample 2</th>
+      <th>Sample 3</th>
+      <th>Sample 4</th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
+      <td><b>Fastspeech2</b></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
     </tr>
@@ -133,25 +134,103 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
+      <td><b>ExpressiveSing</b></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_12.wav"></audio></td>
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_13.wav"></audio></td>
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JLEE_08_4.wav"></audio></td>
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+##  Ablation Study
+
+<div align=center><img src="./image/abtest.jpg" width="60%" ></div>
+<br>
+
+<li><b>ES vs  ES-V</b></li>
+<table align="center">
+  <thead>
+    <tr>
+      <th>\</th>
+      <th>Sample 1</th>
+      <th>Sample 2</th>
+      <th>Sample 3</th>
+      <th>Sample 4</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><b>ES</b></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
     </tr>
   </tbody>
 
   <tbody>
     <tr>
+      <td><b>ES-V</b></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_15_11.wav"></audio></td>
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_2.wav"></audio></td>
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/JTAN_20_7.wav"></audio></td>
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<li><b>ES vs  ES-E1</b></li>
+<table align="center">
+  <thead>
+    <tr>
+      <th>\</th>
+      <th>Sample 1</th>
+      <th>Sample 2</th>
+      <th>Sample 3</th>
+      <th>Sample 4</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><b>ES</b></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
     </tr>
   </tbody>
 
+  <tbody>
+    <tr>
+      <td><b>ES-E1</b></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+    </tr>
+  </tbody>
 </table>
-
