@@ -152,7 +152,7 @@ be added to a music note, which would help improve the singing voice naturalness
 -----------
 <div align=center><img src="./image/abtest.jpg" width="60%" ></div>
 
-#### · ES vs  ES-V
+#### · ES-V vs  ES
 <table align="center">
   <thead>
     <tr>
@@ -166,26 +166,6 @@ be added to a music note, which would help improve the singing voice naturalness
       <th>Sample 7</th>
     </tr>
   </thead>
-
-  <tbody>
-    <tr>
-      <td><b>ES</b></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/ADIZ_01_7_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/ADIZ_09_2_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/JLEE_08_12_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/PMAR_15_6_output.wav"></audio></td>
-     <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/PMAR_11_11_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/PMAR_15_6_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/pitch/output_our_pitch/VKOW_20_2_output.wav"></audio></td>
-    </tr>
-  </tbody>
 
   <tbody>
     <tr>
@@ -206,10 +186,32 @@ be added to a music note, which would help improve the singing voice naturalness
             <source src="audio/abtest/pitch/output_whole_vibrato/VKOW_20_2_output.wav"></audio></td>
     </tr>
   </tbody>
+ 
+  <tbody>
+    <tr>
+      <td><b>ES</b></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/ADIZ_01_7_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/ADIZ_09_2_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/JLEE_08_12_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/PMAR_15_6_output.wav"></audio></td>
+     <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/PMAR_11_11_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/PMAR_15_6_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/pitch/output_our_pitch/VKOW_20_2_output.wav"></audio></td>
+    </tr>
+  </tbody>
+
+ 
 </table>
 <br>
 
-#### · ES vs  ES-E1 
+#### · ES-E1 vs  ES 
 <table align="center">
   <thead>
     <tr>
@@ -223,26 +225,6 @@ be added to a music note, which would help improve the singing voice naturalness
       <th>Sample 7</th>
     </tr>
   </thead>
-
-  <tbody>
-    <tr>
-      <td nowrap="nowrap"><b>ES</b></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/ADIZ_09_7_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/MCUR_10_2_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/MCUR_10_4_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/MPUR_03_3_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/PMAR_15_12_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/VKOW_11_14_output.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="audio/abtest/energy/Dian_energy_multitask/ZHIY_02_8_output.wav"></audio></td>
-    </tr>
-  </tbody>
 
   <tbody>
     <tr>
@@ -263,4 +245,25 @@ be added to a music note, which would help improve the singing voice naturalness
             <source src="audio/abtest/energy/Dian_1d_energy/ZHIY_02_8_output.wav"></audio></td>
     </tr>
   </tbody>
+ 
+  <tbody>
+    <tr>
+      <td nowrap="nowrap"><b>ES</b></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/ADIZ_09_7_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/MCUR_10_2_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/MCUR_10_4_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/MPUR_03_3_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/PMAR_15_12_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/VKOW_11_14_output.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/abtest/energy/Dian_energy_multitask/ZHIY_02_8_output.wav"></audio></td>
+    </tr>
+  </tbody>
+
 </table>
