@@ -18,7 +18,7 @@ be added to a music note, which would help improve the singing voice naturalness
  
  <br>
 
-![arch](image/Overall.png)
+![arch](image/web.jpg)
 
  <br>
 
