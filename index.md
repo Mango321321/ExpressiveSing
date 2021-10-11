@@ -69,7 +69,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
 ##  Ablation Study
 
-<div align=center><img src="./image/abtest.png" width="50%" ></div>
+<div align=center><img src="./image/abtest.pdf" width="50%" ></div>
 <br>
 
 <table align="center">
