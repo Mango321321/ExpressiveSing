@@ -26,14 +26,16 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th>列名1</th>
-      <th>列名2</th>
-      <th>列名3</th>
+      <th>\</th>
+      <th>Sample 1</th>
+      <th>Sample 2</th>
+      <th>Sample 3</th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
+      <td>Baseline </td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -45,6 +47,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
+     <td>USVC </td>
       <td><audio controls="" preload="auto">
             <source src="audio/JLEE_08_12.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -56,6 +59,18 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
+     <td>WGANSing </td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_15_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_7.wav"></audio></td>
+    </tr>
+   
+   <tbody>
+    <tr>
+     <td>UCSVC </td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_15_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -64,6 +79,17 @@ be added to a music note, which would help improve the singing voice naturalness
             <source src="audio/JTAN_20_7.wav"></audio></td>
     </tr>
   </tbody>
+ 
+ <tbody>
+    <tr>
+     <td>ExpressiveSing </td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_15_11.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JTAN_20_7.wav"></audio></td>
+    </tr>
 
 </table>
 
