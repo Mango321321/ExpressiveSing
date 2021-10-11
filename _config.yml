@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+title: [ExpressiveSing]
 github:
-  is_project_page: true
-title: [Expressive]
+  is_project_page: false
+
