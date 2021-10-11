@@ -106,7 +106,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 <br>
 
-#### Additional experiment
+#### · Additional experiment
 <table align="center">
   <thead>
     <tr>
@@ -153,7 +153,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <div align=center><img src="./image/abtest.jpg" width="60%" ></div>
 <br>
 
-####  ES vs  ES-V
+#### · ES vs  ES-V
 <table align="center">
   <thead>
     <tr>
@@ -195,7 +195,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 <br>
 
-####  ES vs  ES-E1 
+#### · ES vs  ES-E1 
 <table align="center">
   <thead>
     <tr>
