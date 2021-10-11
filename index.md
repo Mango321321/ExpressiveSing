@@ -181,7 +181,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
-      <td><b>ES-V</b></td>
+      <td nowrap="nowrap"><b>ES-V</b></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -209,7 +209,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
-      <td><b>ES</b></td>
+      <td nowrap="nowrap"><b>ES</b></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -223,7 +223,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
-      <td><b>ES-E1</b></td>
+      <td nowrap="nowrap"><b>ES-E1</b></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
