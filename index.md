@@ -18,9 +18,7 @@ be added to a music note, which would help improve the singing voice naturalness
  
  <br>
 
-这里可以放一张图片
-
-![结构图](image/audio.jpg)
+![The overall architecture of ExpressiveSing](image/Overall.png)
 
  <br>
 
