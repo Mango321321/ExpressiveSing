@@ -18,7 +18,7 @@ be added to a music note, which would help improve the singing voice naturalness
  
  <br>
 
-![The overall architecture of ExpressiveSing](image/Overall.png)
+![arch](image/Overall.png)
 
  <br>
 
