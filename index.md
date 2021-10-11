@@ -10,7 +10,7 @@
 
 
 ## Abstract
-
+-----------
 
  <div style="text-align: justify">This paper proposes an expressive singing voice synthesis system by introducing explicit vibrato modeling and latent spectrogram
 representation. Vibrato is essential to the naturalness of synthesized sound, due to the inherent characteristics of human singing. Hence, a deep learning based vibrato model is introduced in this paper to control the vibrato’s likeliness, rate, extent, phase in singing. In particular, the vibrato likeliness is proposed to control if vibrato should
@@ -19,7 +19,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <div align=center><img src="./image/overall.jpg"></div>
 
 ## Overall Performance
-
+-----------
 <div align=center><img src="./image/mos.jpg" width="60%"></div>
 <br>
 
@@ -149,7 +149,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <br>
 
 ##  Ablation Study
-
+-----------
 <div align=center><img src="./image/abtest.jpg" width="60%" ></div>
 <br>
 
