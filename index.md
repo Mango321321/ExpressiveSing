@@ -30,16 +30,19 @@ be added to a music note, which would help improve the singing voice naturalness
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
+      <th>Sample 4</th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
-      <td>Baseline </td>
+      <td><b>Baseline</b></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
     </tr>
@@ -47,11 +50,13 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
-     <td>USVC </td>
+     <td><b>USVC</b> </td>
       <td><audio controls="" preload="auto">
             <source src="audio/JLEE_08_12.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JLEE_08_13.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_4.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JLEE_08_4.wav"></audio></td>
     </tr>
@@ -59,39 +64,45 @@ be added to a music note, which would help improve the singing voice naturalness
 
   <tbody>
     <tr>
-     <td>WGANSing </td>
+     <td><b>WGANSing</b> </td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_15_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_20_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_20_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_4.wav"></audio></td>
     </tr>
    
    <tbody>
     <tr>
-     <td>UCSVC </td>
+     <td><b>UCSVC</b> </td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_15_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_20_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_20_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_4.wav"></audio></td>
     </tr>
   </tbody>
  
  <tbody>
     <tr>
-     <td>ExpressiveSing </td>
+     <td><b>ExpressiveSing</b> </td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_15_11.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_20_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/JTAN_20_7.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/JLEE_08_4.wav"></audio></td>
     </tr>
-
 </table>
+<br>
 
 ##  Ablation Study
 
