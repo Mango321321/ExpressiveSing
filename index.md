@@ -74,6 +74,7 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/JLEE_08_4.wav"></audio></td>
     </tr>
+   </tbody>
    
    <tbody>
     <tr>
