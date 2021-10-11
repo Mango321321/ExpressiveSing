@@ -1,6 +1,6 @@
 # <center>EXPRESSIVESING: SINGING VOICE SYNTHESIS WITH VIBRATO MODELING AND LATENT SPECTROGRAM REPRESENTATION</center>
 
-<center>这里放作者A、作者B、作者C</center>
+<center>Yingjie Song$^{1*}$, Wei Song$^3$, Wei Zhang$^3$, Zhengchen Zhang$^3$, Youzheng Wu$^3$, \\\textit{Dan Zeng$^1$, Zhi Liu$^1$, Yang Yu$^4$, Xiaoping Zhang$^{1,2}$</center>
 
 <center>这里放单位A、单位B</center>
 
