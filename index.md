@@ -26,7 +26,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th>\</th>
+      <th></th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
@@ -110,7 +110,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th>\</th>
+      <th></th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
@@ -156,11 +156,13 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th>\</th>
+      <th></th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
       <th>Sample 4</th>
+      <th>Sample 5</th>
+      <th>Sample 6</th>
     </tr>
   </thead>
 
@@ -171,6 +173,10 @@ be added to a music note, which would help improve the singing voice naturalness
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -189,6 +195,10 @@ be added to a music note, which would help improve the singing voice naturalness
             <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
+     <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -198,11 +208,13 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th>\</th>
+      <th></th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
       <th>Sample 4</th>
+      <th>Sample 5</th>
+      <th>Sample 6</th>
     </tr>
   </thead>
 
@@ -213,6 +225,10 @@ be added to a music note, which would help improve the singing voice naturalness
             <source src="audio/ADIZ_01_7.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_8.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -228,6 +244,10 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_01_8.wav"></audio></td>
       <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="audio/ADIZ_09_2.wav"></audio></td>
+     <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="audio/ADIZ_09_2.wav"></audio></td>
