@@ -1,12 +1,12 @@
 
 # <center>EXPRESSIVESING: SINGING VOICE SYNTHESIS WITH VIBRATO MODELING AND LATENT SPECTROGRAM REPRESENTATION</center>
 
-<center>Yingjie Song<sup>1</sup>, Wei Song<sup>3</sup>, Wei Zhang<sup>3</sup>, Zhengchen Zhang<sup>3</sup>, Youzheng Wu<sup>3</sup>, <br> Dan Zeng<sup>1</sup>, Zhi Liu<sup>1</sup>, Yang Yu<sup>4</sup>, Xiaoping Zhang<sup>1,2</sup> <br><br></center>
+<!-- <center>Yingjie Song<sup>1</sup>, Wei Song<sup>3</sup>, Wei Zhang<sup>3</sup>, Zhengchen Zhang<sup>3</sup>, Youzheng Wu<sup>3</sup>, <br> Dan Zeng<sup>1</sup>, Zhi Liu<sup>1</sup>, Yang Yu<sup>4</sup>, Xiaoping Zhang<sup>1,2</sup> <br><br></center>
 
 <center><sup>1</sup> School of Communication and Information Engineering, Shanghai University, China<br>  
 <sup>2</sup> Ryerson University, Toronto, Canada<br>
 <sup>3</sup> JD AI Research, Beijing, China<br>
-<sup>4</sup> Shanghai Conservatory of Music, China</center>
+<sup>4</sup> Shanghai Conservatory of Music, China</center> -->
 
 
 ## Abstract
