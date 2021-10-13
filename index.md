@@ -13,7 +13,7 @@
 - [Abstract](#abstract)
 - [Overall Performance](#overall-performance)
     + [MOS of Different Systems](#mos-of-different-systems)
-    + [Additional experiment](#additional-experiment)
+    + [Additional Experiment](#additional-experiment)
 - [Ablation Study](#ablation-study)
     + [ES-V vs  ES](#es-v-vs--es)
     + [ES-E1 vs  ES](#es-e1-vs--es)
@@ -117,7 +117,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 <br>
 
-#### Additional experiment
+#### Additional Experiment
 <table align="center">
   <thead>
     <tr>
