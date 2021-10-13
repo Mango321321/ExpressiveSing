@@ -12,10 +12,11 @@
 
 - [Abstract](#abstract)
 - [Overall Performance](#overall-performance)
-    + [· Additional experiment](#--additional-experiment)
+    + [MOS of Different Systems](#--mos-of-different-systems)
+    + [Additional experiment](#--additional-experiment)
 - [Ablation Study](#ablation-study)
-    + [· ES-V vs  ES](#--es-v-vs--es)
-    + [· ES-E1 vs  ES](#--es-e1-vs--es)
+    + [ES-V vs  ES](#--es-v-vs--es)
+    + [ES-E1 vs  ES](#--es-e1-vs--es)
 
 ## Abstract
 -----------
@@ -28,6 +29,8 @@ be added to a music note, which would help improve the singing voice naturalness
 
 ## Overall Performance
 -----------
+
+#### · MOS of Different Systems
 <div align=center><img src="./image/mos.jpg" width="60%"></div>
 <br>
 
