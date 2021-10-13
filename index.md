@@ -300,10 +300,9 @@ P.S. 1)<b>USVC</b>, the audios from this <a href="https://enk100.github.io/Unsup
 </tr></thead><tbody>
 <tr>
 <td nowrap="nowrap"><b>Parametric F0</b></td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio>
-    <br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_01_7.jpg" width="65%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_01_7.jpg" width="95%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_18_1.jpg" width="95%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/PMAR_15_6.jpg" width="95%" ></div> </td>
 </tr>
     
 <tr>
