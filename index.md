@@ -300,23 +300,23 @@ P.S. 1)<b>USVC</b>, the audios from this <a href="https://enk100.github.io/Unsup
 </tr></thead><tbody>
 <tr>
 <td nowrap="nowrap"><b>Parametric F0</b></td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_01_7.jpg" height="70%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_18_1.jpg" height="70%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/PMAR_15_6.jpg" height="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_01_7.jpg" width="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/ADIZ_18_1.jpg" width="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_Parametric_F0/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_Parametric_F0/PMAR_15_6.jpg" width="70%" ></div> </td>
 </tr>
     
 <tr>
 <td nowrap="nowrap"><b>ES-V</b></td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_whole_vibrato/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_whole_vibrato/ADIZ_01_7.jpg" height="70%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_whole_vibrato/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_whole_vibrato/ADIZ_18_1.jpg" height="70%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_whole_vibrato/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_whole_vibrato/PMAR_15_6.jpg" height="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_whole_vibrato/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_whole_vibrato/ADIZ_01_7.jpg" width="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_whole_vibrato/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_whole_vibrato/ADIZ_18_1.jpg" width="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_whole_vibrato/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_whole_vibrato/PMAR_15_6.jpg" width="70%" ></div> </td>
 </tr>
  
 <tr>
 <td nowrap="nowrap"><b>ES</b></td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_our_pitch/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_our_pitch/ADIZ_01_7.jpg" height="70%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_our_pitch/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_our_pitch/ADIZ_18_1.jpg" height="70%" ></div> </td>
-<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_our_pitch/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_our_pitch/PMAR_15_6.jpg" height="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_our_pitch/ADIZ_01_7_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_our_pitch/ADIZ_01_7.jpg" width="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_our_pitch/ADIZ_18_1_output.wav" autoplay/>Your browser does not support the audio element.</audio><br> <div align=center><img src="./image/pitch_show_pic/output_our_pitch/ADIZ_18_1.jpg" width="70%" ></div> </td>
+<td><audio controls="controls" ><source src="./audio/pitch_show_audio/output_our_pitch/PMAR_15_6_output_web.wav" autoplay/>Your browser does not support the audio element.</audio><div align=center><img src="./image/pitch_show_pic/output_our_pitch/PMAR_15_6.jpg" width="70%" ></div> </td>
 </tr>
 
 </tbody></table>
