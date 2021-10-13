@@ -291,47 +291,12 @@ be added to a music note, which would help improve the singing voice naturalness
 <th style="text-align: center">Sample 3</th>
 </tr></thead><tbody>
 <tr>
-<td>Data crawling</td>
-<td><audio controls="controls" ><source src="../audio/deepsinger/zh/xx_0K2P2e1dc_5.wav" autoplay/>Your browser does not support the audio element.</audio><br>Lyrics: 爱从不容许人三心两意<br>Phonemes: PAD ai c ong b u r ong x v r en s an x in l iang PAD i</td>
-<td><audio controls="controls" ><source src="../audio/deepsinger/zh/xx_0K2P2e1dc_15.wav" autoplay/>Your browser does not support the audio element.</audio><br>Lyrics: 遮住你的眼睛<br>Phonemes: zh e zh u n i d e PAD ian j ing</td>
-<td><audio controls="controls" ><source src="../audio/deepsinger/zh/xx_XIKddfe0_37.wav" autoplay/>Your browser does not support the audio element.</audio><br>Lyrics: 好久好久<br>Phonemes: h ao j iou h ao j iou</td>
-</tr>
-<tr>
-<td>Singing and accompaniment separation</td>
+<td>Parametric F0</td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio> </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/XIKddfe0_37_raw.wav" autoplay/>Your browser does not support the audio element.</audio></td>
 </tr>
-<tr>
-<td>Lyrics-to-singing alignment</td>
-<td>Attention map <img src='../audio/deepsinger/zh/0K2P2e1dc_5_attn_0.8244.png'/><br> Lyrics-to-singing alignment <img src='../audio/deepsinger/zh/0K2P2e1dc_5_splits.png'/> </td>
-<td>Attention map <img src='../audio/deepsinger/zh/0K2P2e1dc_15_attn_0.8329.png'/><br> Lyrics-to-singing alignment <img src='../audio/deepsinger/zh/0K2P2e1dc_15_splits.png'/></td>
-<td>Attention map <img src='../audio/deepsinger/zh/XIKddfe0_37_attn_0.3764.png'/></td>
-</tr>
-<tr>
-<td>Data filtration</td>
-<td>Keep (Splitting Reward: $\mathcal{O} = 0.8244 $)  </td>
-<td>Keep (Splitting Reward: $\mathcal{O} = 0.8359 $)  </td>
-<td>Discard (Splitting Reward: $\mathcal{O} = 0.3764 $)</td>
-</tr>
-<tr>
-<td>Singing modeling</td>
-<td>
-$\textit{GT (Linear+GL)}$   <br>  <audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_gt.wav" autoplay/>Your browser does not support the audio element.</audio> <br>  
-$\textit{DeepSinger}$  <br>  <audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5.wav" autoplay/>Your browser does not support the audio element.</audio> <br>  
-Pitch Plot
-<img src='../audio/deepsinger/zh/0K2P2e1dc_5_pitch.png'/>
-</td>
-<td>
-$\textit{GT (Linear+GL)}$   <br>  <audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_gt.wav" autoplay/>Your browser does not support the audio element.</audio> <br> 
- $\textit{DeepSinger}$  <br>  <audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15.wav" autoplay/>Your browser does not support the audio element.</audio> <br>
- Pitch Plot
- <img src='../audio/deepsinger/zh/0K2P2e1dc_15_pitch.png'/>
-</td>
-<td>
-<p>/</p>
-</td>
-</tr>
+
 </tbody></table>
 
 ## Details of Vibrato Likeliness Labeling Model
