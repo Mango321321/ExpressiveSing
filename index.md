@@ -150,7 +150,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
 ##  Ablation Study
 -----------
-<div align=center><img src="./image/ab_test.jpg" width="60%" ></div>
+<div align=center><img src="./image/abtest_.jpg" width="60%" ></div>
 
 #### · ES-V vs  ES
 <table align="center">
