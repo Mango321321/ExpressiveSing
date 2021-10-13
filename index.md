@@ -119,9 +119,9 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 
 <p>
-P.S. 1)<b>USVC</b>, the audios are from this <a href="https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/">link</a>; 
-     2)<b>WGANSing</b>, where we trained the model on the same training set as ExpressiveSing. The original web is <a href="https://pc2752.github.io/sing_synth_examples/">here</a>; 
-     3)<b>UCSVC</b>, the audio are from this <a href="https://singing-conversion.github.io/">link</a>.
+P.S. 1)<b>USVC</b>, the audios from this <a href="https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/">link</a>; 
+     2)<b>WGANSing</b>, where we retrain the model on the same training set as ExpressiveSing. The original web is <a href="https://pc2752.github.io/sing_synth_examples/">here</a>; 
+     3)<b>UCSVC</b>, the audios from this <a href="https://singing-conversion.github.io/">link</a>.
 </p>
 <br>
 
