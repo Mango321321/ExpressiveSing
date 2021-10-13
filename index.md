@@ -39,7 +39,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th></th>
+      <th>/</th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
@@ -123,7 +123,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th></th>
+      <th>/</th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
@@ -169,7 +169,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th></th>
+      <th>/</th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
@@ -228,7 +228,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <table align="center">
   <thead>
     <tr>
-      <th></th>
+      <th>/</th>
       <th>Sample 1</th>
       <th>Sample 2</th>
       <th>Sample 3</th>
@@ -293,7 +293,7 @@ be added to a music note, which would help improve the singing voice naturalness
 <th style="text-align: center">Sample 3</th>
 </tr></thead><tbody>
 <tr>
-<td nowrap="nowrap">Parametric F0</td>
+<td nowrap="nowrap"><b>Parametric F0</b></td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio>
     <br> <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div> </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
@@ -301,7 +301,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </tr>
     
 <tr>
-<td nowrap="nowrap">ES-V</td>
+<td nowrap="nowrap"><b>ES-V</b></td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio>
     <br> <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div> </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
@@ -309,7 +309,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </tr>
  
 <tr>
-<td nowrap="nowrap">ES</td>
+<td nowrap="nowrap"><b>ES</b></td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio>
     <br> <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div> </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
