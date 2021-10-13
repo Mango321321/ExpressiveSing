@@ -57,7 +57,7 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/mos_demo_web/baseline/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/baseline/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/baseline/VKOW_20_JTAN_2.wav"></audio></td>
     </tr>
   </tbody>
 
@@ -71,7 +71,7 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/mos_demo_web/USVC/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/USVC/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/USVC/VKOW_20_JTAN_2.wav"></audio></td>
     </tr>
   </tbody>
 
@@ -85,7 +85,7 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/mos_demo_web/WGANSing/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/WGANSing/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/WGANSing/VKOW_20_JTAN_2.wav"></audio></td>
     </tr>
    </tbody>
    
@@ -99,7 +99,7 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/mos_demo_web/UCSVC/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/UCSVC/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/UCSVC/VKOW_20_JTAN_2.wav"></audio></td>
     </tr>
   </tbody>
  
@@ -113,7 +113,7 @@ be added to a music note, which would help improve the singing voice naturalness
       <td><audio controls="" preload="auto">
             <source src="audio/mos_demo_web/ours/VKOW_20_JTAN_1.wav"></audio></td>
       <td><audio controls="" preload="auto">
-            <source src="audio/mos_demo_web/ours/VKOW_20_JTAN_1.wav"></audio></td>
+            <source src="audio/mos_demo_web/ours/VKOW_20_JTAN_2.wav"></audio></td>
     </tr>
    </tbody>
 </table>
