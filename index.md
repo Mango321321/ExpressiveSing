@@ -281,6 +281,8 @@ be added to a music note, which would help improve the singing voice naturalness
 
 </table>
 
+<br>
+
 #### Examples of Different Pitch Models 
 
 <table><thead>
@@ -291,8 +293,25 @@ be added to a music note, which would help improve the singing voice naturalness
 <th style="text-align: center">Sample 3</th>
 </tr></thead><tbody>
 <tr>
-<td>Parametric F0</td>
-<td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio> </td>
+<td nowrap="nowrap">Parametric F0</td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio>
+    <br> <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div> </td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/XIKddfe0_37_raw.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+</tr>
+    
+<tr>
+<td nowrap="nowrap">ES-V</td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio>
+    <br> <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div> </td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/XIKddfe0_37_raw.wav" autoplay/>Your browser does not support the audio element.</audio></td>
+</tr>
+ 
+<tr>
+<td nowrap="nowrap">ES</td>
+<td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_5_raw.wav" autoplay/>Your browser does not support the audio element.</audio>
+    <br> <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div> </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/0K2P2e1dc_15_raw.wav" autoplay/>Your browser does not support the audio element.</audio>  </td>
 <td><audio controls="controls" ><source src="../audio/deepsinger/zh/XIKddfe0_37_raw.wav" autoplay/>Your browser does not support the audio element.</audio></td>
 </tr>
