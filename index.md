@@ -17,7 +17,7 @@
 - [Ablation Study](#ablation-study)
     + [ES-V vs ES](#es-v-vs-es)
     + [ES-E1 vs ES](#es-e1-vs-es)
-    + [Examples of Different Pitch Model](#examples-of-different-pitch-model)
+    + [Examples of Different Pitch Models](#examples-of-different-pitch-models)
 - [Details of Vibrato Likeliness Labeling Model](#details-of-vibrato-likeliness-labeling-model)
 
 ## Abstract
@@ -281,7 +281,7 @@ be added to a music note, which would help improve the singing voice naturalness
 
 </table>
 
-#### Examples of Different Pitch Model 
+#### Examples of Different Pitch Models 
 
 ## Details of Vibrato Likeliness Labeling Model
 -----------
