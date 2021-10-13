@@ -30,7 +30,7 @@ be added to a music note, which would help improve the singing voice naturalness
 ## Overall Performance
 -----------
 
-#### · MOS of Different Systems
+#### MOS of Different Systems
 <div align=center><img src="./image/mos.jpg" width="60%"></div>
 <br>
 
@@ -117,7 +117,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 <br>
 
-#### · Additional experiment
+#### Additional experiment
 <table align="center">
   <thead>
     <tr>
@@ -163,7 +163,7 @@ be added to a music note, which would help improve the singing voice naturalness
 -----------
 <div align=center><img src="./image/abtest_1.jpg" width="65%" ></div>
 
-#### · ES-V vs  ES
+#### ES-V vs  ES
 <table align="center">
   <thead>
     <tr>
@@ -222,7 +222,7 @@ be added to a music note, which would help improve the singing voice naturalness
 </table>
 <br>
 
-#### · ES-E1 vs  ES 
+#### ES-E1 vs  ES 
 <table align="center">
   <thead>
     <tr>
