@@ -325,3 +325,4 @@ P.S. 1)<b>USVC</b>, the audios from this <a href="https://enk100.github.io/Unsup
 
 ## Details of Vibrato Likeliness Labeling Model
 -----------
+<img src="./image/pitch_likeliness.png" width="100%" >
